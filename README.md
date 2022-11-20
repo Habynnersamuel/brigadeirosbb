@@ -1,2 +1,1 @@
-# BB-Brigadeiros
-Venda de brigadeiros
+# Projeto-Empreendedores-de-Sucesso
